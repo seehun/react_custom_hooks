@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import { useInput } from './useInput';
 
 const App = () => {
-  const maxLen = (x) => !x.includes('@');
+  const NotInclude = (x) => !x.includes('@');
   const name = useInput('Mr.', maxLen);
 
   return (

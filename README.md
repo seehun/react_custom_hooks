@@ -1,7 +1,7 @@
 collection of React Hooks ready to install with NPM
 
 - [] useTitle
-- [] useInput
+- [v] useInput
 - [] usePageLeave
 - [] useClick
 - [] useFadeIn
