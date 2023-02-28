@@ -3,7 +3,7 @@ collection of React Hooks ready to install with NPM
 - [v] useTitle
 - [v] useTabs
 - [v] useInput
-- [] usePageLeave
+- [] useBeforeLeave
 - [v] useClick
 - [] useFadeIn
 - [] useFullscreen
