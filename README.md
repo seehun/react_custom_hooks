@@ -8,9 +8,9 @@ collection of React Hooks ready to install with NPM
 - [v] useFadeIn
 - [] useFullscreen
 - [v] useHover
-- [] useNetwork
+- [v] useNetwork
 - [] useNotification
-- [] useScroll
+- [v] useScroll
 - [v] usePreventLeave
 - [] useConfirm
 - [] useAxios
